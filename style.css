@@ -1,0 +1,22 @@
+body {
+	background-color: WhiteSmoke;
+	
+	font-family: 'Droid Sans', sans;
+	font-size: 28px;
+	text-shadow: 2px 2px 2px #aaa;
+	
+	padding-left: 20px;
+}
+
+.content {
+	margin-top: -30px;
+	padding-left: 20px;
+}
+
+.section {
+	padding-left: 20px;
+}
+
+span {
+	color: Gray;
+}

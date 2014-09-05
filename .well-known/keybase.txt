@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/hlaueriksson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://henrik.laueriksson.com
+  * I am hlaueriksson (https://keybase.io/hlaueriksson) on keybase.
+  * I have a public key with fingerprint 2392 198E 2F9F 0DCE 23E4  E4BB FE46 F6EB C904 46CD
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2392198e2f9f0dce23e4e4bbfe46f6ebc90446cd",
+            "host": "keybase.io",
+            "key_id": "fe46f6ebc90446cd",
+            "uid": "5105af379087f9e07b54cb1cb800d700",
+            "username": "hlaueriksson"
+        },
+        "service": {
+            "hostname": "henrik.laueriksson.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396522361,
+    "expire_in": 157680000,
+    "prev": "e1557d3828bb54876d7e133dd0e25961d94c6d458259723f54486f991f3a9e93",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.1
+Comment: https://keybase.io/crypto
+
+yMHoAnicbZFbSBRtGMfXY9vClgXxydcSOB0o2NZ3jodlzTQxSDA0qC2lbQ7v7A7q
+zDYzq63Lykerq15EUZlshkbZRXe12YmIJMLEIPi8Mlq0C68q6EC6daXvSEIXXQ3v
++/ye3/9553nlLnK4Ch7LVZmGwr7ygjeTKzHHsaqqeAITdTmO+RNYG1z7KKoWhkbU
+UDUL82MEyRM4z0FC4RUgS5AgIQUpUVQgxSgMFCUeUBQjyZgXi+im3YE0omBCn6qj
+O3QIqTK6/QsfWyvQOKAFhWR5wLEKDwEr0pQk4pLIASCzANigCQ1N6ICIjrQLMWio
+baapa1jSi6FKpyqhSmItfp2CGmJ8f7A+Se9ApqihW7qkt9uMZUX9tsKKR+2eLiiG
+fttCoqrJ6C+ghk5omCqK8uOIlCzV1uMkz9AEQTK4F4PnoqoBQ6pN0CyDZgbAjoGd
+SAlxmmZlkiM4ET2KYxmZhThJyjKABM0zuMxTEiNTNIdOLEEqNEVxjMLzuEIKPORJ
+lG/Cs5qO+Uk0phBGSlMNa4IVMyCWfDnZWuwocDlKSwrtPTpcG8vWt5uLOB3jFd+L
+Sz35X0+vf72Scm8uq75RO0pxW4KplgvZvpXBXHihr/KOeCiZPBjkertqhl+fOnJC
+7/+YWVpa7v45/M/g/z1S5r7wbn5qGI8HR7LsYkOd5/Dp6eepiLNlcSr59qI0bb7/
+L9P0gKyXclRldvl43cMZqr6kOTORmygPCNFLevrFQpsy31tzO97uCbmq74Kjtbs+
+7B7HmtIVe/LBz2PeVmfq/CZ3ke/L1fJrWe8jU7p8K5AI1XzS6me26Stp3/ax0QOu
+2Zv7n+QniXv/gsZATzNonZva2b/DOesbSD8b2NA9trV3r3vk5Lchz/i+RtYdODM3
+PQ/yQ4Efq0UiDu4=
+=9LtX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hlaueriksson
+
+==================================================================

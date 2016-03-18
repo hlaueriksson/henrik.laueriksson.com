@@ -1,0 +1,56 @@
+﻿/* TEAM */
+	Just me, Henrik Lau Eriksson
+	Contact: henrik@laueriksson.com
+	Twitter: @hlaueriksson
+
+/////////////////////+hdddddddhhhyyyyhyyyyyyyyyyysssooooo++++++////::::::::/+o+ooo::------....``````
+/////////////////////ohdddddddhhhyyyyyyyyyyyyyyssssssoooo+++++/////::::---::/+++oo/::------....`````
+/////////////////////ohdddddddhhhyhyyyyyyyyyyyssssssoooooo++++/////::::----:////++/:::-----....`````
+/////////////////////ohhdddddhhhyyhyyyyyyyyyyssssssoooooooo++++///::::-----:://:///::::-----...`````
+/////////////////////+hdddddhhhyyyhhyyyyyyyyyysssoosoooooooo+++///::--------::::://::::-----....````
+/////////////////////+hdddddhhhyyhhhhhhhhhhhyyyysssssssooooo+++//::-----------:::::::::::----...````
+/////////////////////+yddddhhhyyyhhyyhhhhhhhhyyyyyyssssoooooo++///::----------:::::::::::----...````
+//////////////////////shdddhhyyyyhhhhhhhhhhhhhhhhyyyyssssooooo+++++//::------:::::::::::::---...````
+///////////////////////yddddmmmmmmmmmmmmmmmmmmmddddhyssssyyyyyyyhhyyyssoo+///://::::::::::----...```
+////////////////////oo++hymMNdhhhhdddddddmmmmmmmNNNNmddmmdhhhhhhhyysso++++oshmdo/:::::::::----...```
+/////////////////::ohhhhhdmMdhyyhhhdddmmmmmmNmmmmNMMNNNMy+oshhdddhyo+/+/::-:+Nmo//:::::::::---......
+////////////////:::+dddhhhhNhyyyhhhdhdmNNmdmNNNmmMNmddNMy+shddhhdmdy/+//:---:my:::/o/::::::----.....
+////////////////:::/hmdhhhhmdyyhhhhhddddmddmmmmmNNdyssyNm+oyhdhhhhs/:/::----/N+::/sy+::::::----.....
+///////////////:::::+ddhhhyhNyyhhhhhhhdddmmmmmmmMmhs+/:smy/oyyhyys+/::------od:-:+yo:::::::----.....
+//////////////:::::::ohdddhydddhhddddddddmmmmmmNmdhs+/-:syyoossso++/:::---:+do+/:+o::::::::-----...-
+//////////////:::::::/ydmdyyyyhddddddddmmmmmmmdddhhs+/:-//+osssyyysssssssooo:/o+:+:::::::::------.--
+//////////////::::::::ohddhyyyhhhhhhdddddddddddddhhso/:::/::///////:::-------/o///::::::::----------
+//////////////::::::::/yydhhyyhhhhhhhdddddddddddhhyso+/--::/++++////::-------/://:::::::-------....-
+/////////////::::::::::+yhhhhyyhhhhhhhhddddddddhhhhys+/---:/oo+++///:-------::-::::::::--------.....
+/////////////::::::::::/syhhhyyyhhhhhhhhddddddhdddhyso//+///+oso++//::------:---::::::--------......
+//////////::::::::::::::/oyhhyyyhhhhhhhhhddddddmmddys+////:::/ssoo+//::-----::-:::::--------........
+////////////::::::::::::::://syyyhhhhhhhdddddddddddyss+/::::::/+oo++//::---:::::::---------.....````
+///////////::::::::::::::::::oyyyhhhhhhdddddddddddhsshs+/:::::::/++///::---:::::---------.....``````
+////////////:::::::::::::::::/yyyhhhhhhhdhdddddddhssyhyo+/::::::::///:::---:::-:--------.....```````
+///////////:::::::::::::::::::syyhhhhhhhhhhhhhhdhhssyyyo+///:::::::/:::::-::------------....````````
+////////////::::::::::::::::::/yyhhhhhhhhhdmddddddhhhyssooo+osyo/:/:::::-:::-----------.....````   `
+//////////:/:::::::::::::::::::+yhhhhhhhhddmmmmmmmdhhhhyo++///+++//:::::::------------......````   `
+///////////:::::::::::::::::::::+yhhhhhhhddddddddddhhsso+/:::://+/:::::::-------------.....`````   `
+//////////:::::::::::::::::::::::/yhhhhhhhhhhhhhhhhhyyso+/:::///+//:::::--------------.....````     
+//////////::::::::::::::::::::::::ohhhddddhhhhhhyyyyssoo+/////+++//::::---------------.....````     
+////////////::::::::::::::::::::::+hhhddddddddhhhhyyysoo+//////////::::--------------......```      
+///////////:::::::::::::::::::::::/yhhdddddddddhhhhysso++///////////:::--------------.....````      
+///////////::::::::::::::::::::::::yhhhhddddddddhhysyyso++//////////::::------------......````      
+////////////::::::::::::::::::::::/yyhhhhdddddddhyyyyysoo++////////:::::-------------.....````      
+/////////////:::::::::::::::::::::/yyhhhhhhhddhhhyyyyyssoo++///+///:::::-------------.....````      
+/////////////::::::::::::::::::/sysyyyhhhhhhhhhhyyssssoo++////++///::::::-:---------......````      
+/////////////:::::::::::::::/+shdyyyhyhhhhhhhhhyysooooo++////+++////:::::-::://:---.......````      
+///////////////::::::::://+sydddyyyyhhhhhhhhhhhhysooooo++/++++++////:::::::::/oyo:-.......````      
+//////////////:::::::/+syhdddmmhyyhhhhhhhhhhhhhhysssooo++++++o+++///:::::::::/+yyoo/:....`````      
+///////////////://+oyhddddddmmmhyyhhhhhhhhhhhhhhyyssoo+++++ooo+++//////:::::/+yysssoo+:-.`````      
+/////////////+osyhhdddddddmmmmmdhhhhhhhhhhhhhhhhyyyssoo+oooooo++++//////::/+syyyyyssssoo/-.``       
+////////++oyyhhdddddddddmmmmmmmmdhhhhhhhhhhhhhhhyyysssooosssoo++++++////:/oyhyyyysyssssssoo/-`      
+///+osyyhhddddddddddddddmmmmmmmmmdhhhhhhhhhhhhhhyyyyysssssssoo+++++++++/+shhhhyyysyyyysssosys+:.`   
+ssyhhddddddddddddddmdddmmmmmmmmmmmdhhhhhhhhhhhhhhhyyyyyyyysoooooooo+oooshhhhhyyyyyyyyyyyssssssso/-` 
+ddddddddddddmmmmmmmmmmmmmmmmmmmmmddhhhhhhhhhhhhhhhhhhhhhhysooossssssyhddhhhhyyyyhhyyyyyyyyyssssssso/
+dddddmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhhhhhhhhhhhhhhysossyyyyhhddddhhyyhyyyhyyyyyyyyyyyssyssoso
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmdhhhhhhhhhhhddddddhhysssyhhhhdddddhhhyyhhyyhhyyyyyhyyyyyyyysssss
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddhhyhhhdddddddhhhyyyhhddddddhdhhyyhhhyhhhhhhhyyhyyyyyyyyyyyss
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmddddddddddddddddddddddddhhyhhhhhhhhhhyyhhhhhhhhhhyyyyyyyyy
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNmmmmmmmmmmmmmmmmmmmmdddmdddhhhhdhhhdhhhdhhhhhhhhhhhhhhyhhyyyyyy
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmmmmmmNNNNNNmmNmmmmmmmmmmmmmdddmddddmddhddhhhddhhddhhhdhhhhhhhhhhhhhhh

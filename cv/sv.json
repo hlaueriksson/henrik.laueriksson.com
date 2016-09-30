@@ -6,13 +6,32 @@
     "linkedin": "https://www.linkedin.com/in/henriklaueriksson",
     "portfolio": "http://henrik.laueriksson.com"
   },
-  "experience": [
+  "positions": [
     {
       "company": "Movestic Liv & Pension",
       "title": "Systemutvecklare",
       "description": "",
       "from": "februari 2016",
-      "to": null
+      "to": null,
+      "projects": [
+        {
+          "name": "Inloggning med Mobilt BankID",
+          "description": "Utveckling av nytt inloggningsförfarande på Movestics kundwebb med hjälp av Mobilt BankID. Integration med tjänst från BankID.",
+          "url": "https://www.movestic.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "BankID",
+            "Umbraco",
+            "ASP.NET MVC",
+            "C#",
+            "JavaScript"
+          ],
+          "from": "mars 2016",
+          "to": "april 2016"
+        }
+      ]
     },
     {
       "company": "Valtech",
@@ -29,8 +48,8 @@
             "Systemutvecklare"
           ],
           "keywords": [
-            "EPiServer CMS 7.5",
-            "ASP.NET MVC 4",
+            "EPiServer CMS 9",
+            "ASP.NET MVC 5",
             "C#",
             "REST",
             "Azure",

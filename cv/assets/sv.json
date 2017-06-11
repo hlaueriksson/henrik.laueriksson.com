@@ -1,0 +1,602 @@
+{
+  "name": "Henrik Lau Eriksson",
+  "title": "Systemutvecklare",
+  "description": "Jag inriktar mig främst på utveckling av system för webben och är starkast på kod som körs backend. Jag har mångårig erfarenhet av programmering i .NET och jag brinner för testning, arkitektur och agila arbetssätt. Jag läste datateknik på KTH med inriktning programutveckling.",
+  "urls": {
+    "linkedin": "https://www.linkedin.com/in/henriklaueriksson",
+    "portfolio": "http://henrik.laueriksson.com",
+    "blog": "http://conductofcode.io"
+  },
+  "positions": [
+    {
+      "company": "Qliro",
+      "title": "Systemutvecklare",
+      "description": "",
+      "from": "november 2016",
+      "to": null,
+      "projects": [
+        {
+          "name": "Qliro - Betalningslösning för e-handel",
+          "description": "Utveckling av betalningslösning för e-handel. Checkout för interna och externa merchants. Betalningar via faktura, Visa, Mastercard och PayPal.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "ASP.NET Web API",
+            "MSMQ",
+            "Rebus",
+            "SpecFlow",
+            "Swagger",
+            "C#",
+            "SQL",
+            "React",
+            "Redux"
+          ],
+          "from": "mars 2016",
+          "to": "april 2016"
+        }
+      ]
+    },
+    {
+      "company": "Movestic Liv & Pension",
+      "title": "Systemutvecklare",
+      "description": "",
+      "from": "februari 2016",
+      "to": "november 2016",
+      "projects": [
+        {
+          "name": "Movestic - Försäkringssystem",
+          "description": "Utveckling av nytt internt försäkringssystem på Movestic. Backend i .NET, frontend i Angular 2.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "Entity Framework",
+            "ASP.NET Web API",
+            "CQRS",
+            "DDD",
+            "SpecFlow",
+            "Swagger",
+            "C#",
+            "Angular 2"
+          ],
+          "from": "april 2016",
+          "to": "november 2016"
+        },
+        {
+          "name": "Movestic - Inloggning med Mobilt BankID",
+          "description": "Utveckling av nytt inloggningsförfarande på Movestics kundwebb med hjälp av Mobilt BankID. Integration med tjänst från BankID.",
+          "url": "https://www.movestic.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "BankID",
+            "Umbraco",
+            "ASP.NET MVC",
+            "C#",
+            "JavaScript"
+          ],
+          "from": "februari 2016",
+          "to": "april 2016"
+        }
+      ]
+    },
+    {
+      "company": "Valtech",
+      "title": "Teknisk konsult",
+      "description": "",
+      "from": "april 2010",
+      "to": "januari 2016",
+      "projects": [
+        {
+          "name": "Scandic Hotels – Externwebb",
+          "description": "Utveckling av en ny extern webbplats åt Scandic. Arbete med allt från hantering av innehåll, betalningar och mikrotjänster. Integration med interna och externa system.",
+          "url": "https://www.scandichotels.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 9",
+            "ASP.NET MVC 5",
+            "C#",
+            "REST",
+            "Azure",
+            "Microservices"
+          ],
+          "from": "mars 2015",
+          "to": "januari 2016"
+        },
+        {
+          "name": "SLL – Hitta och jämför vård - Diabetesindikatorer",
+          "description": "Vidareutveckling av Hitta och jämföra vård för att visa indikatordata från Nationella diabetesregistret på 1177. Integration med externa system via REST-APIer.",
+          "url": "http://www.1177.se/Hitta-vard/",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "ASP.NET MVC 4",
+            "ASP.NET Web API",
+            "C#",
+            "REST",
+            "MongoDB",
+            "Elasticsearch"
+          ],
+          "from": "januari 2015",
+          "to": "mars 2015"
+        },
+        {
+          "name": "SKL – Vården i siffror - Extranät",
+          "description": "Utveckling av nytt extranät för att visualisera data om vård och hälsa från landsting, sjukhus och vårdenheter i landet. Integration med externa system via SOAP och REST.",
+          "url": "https://www.vardenisiffror.se",
+          "roles": [
+            "Systemutvecklare",
+            "Scrum Master"
+          ],
+          "keywords": [
+            "ASP.NET MVC 5",
+            "ASP.NET Web API 2",
+            "C#",
+            "SOAP",
+            "REST",
+            "Elasticsearch",
+            "MongoDB",
+            "Azure"
+          ],
+          "from": "augusti 2014",
+          "to": "december 2014"
+        },
+        {
+          "name": "MTR – Externwebb",
+          "description": "Utveckling av ny extern webbplats för MTR Stockholm som bland annat driver trafik och service av tunnelbanan i Stockholm. Integration med externa system via XML, RSS och REST.",
+          "url": "http://www.mtrnordic.se",
+          "roles": [
+            "Systemutvecklare",
+            "Scrum Master"
+          ],
+          "keywords": [
+            "EPiServer CMS 7.5",
+            "ASP.NET MVC 4",
+            "C#",
+            "REST",
+            "Git",
+            "TeamCity"
+          ],
+          "from": "april 2014",
+          "to": "juli 2014"
+        },
+        {
+          "name": "1177 – Hitta och jämföra hjälpmedel, Externwebb",
+          "description": "Utveckling av ny tjänst som underlättar för personer med funktionsnedsättningar att hitta och jämföra hjälpmedel på 1177. Integration med externt REST-API för att tillhandahålla produktinformation om hjälpmedel.",
+          "url": "http://www.1177.se/Tema/Hjalpmedel/",
+          "roles": [
+            "Systemutvecklare",
+            "Scrum Master"
+          ],
+          "keywords": [
+            "EPiServer CMS 6 R2",
+            "ASP.NET 4.0",
+            "C#",
+            "REST",
+            "Selenium",
+            "Cucumber",
+            "Git",
+            "Jenkins"
+          ],
+          "from": "november 2013",
+          "to": "mars 2014"
+        },
+        {
+          "name": "1177 – Migrering av Externwebb och Android App",
+          "description": "Migrering och uppgradering av system i samband med sammanslagning av 1177 och Vårdguiden. Berörda system; EPiServer, WordPress och Android app.",
+          "url": "http://www.1177.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6 R2",
+            "ASP.NET 4.0",
+            "C#",
+            "Git",
+            "Android",
+            "Java"
+          ],
+          "from": "augusti 2013",
+          "to": "oktober 2013"
+        },
+        {
+          "name": "SIS – Extranät",
+          "description": "Utveckling av nytt extranät baserat på EPiServer, med integration till ett flertal system runt omkring.",
+          "roles": [
+            "Lösningsarkitekt",
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6 R2",
+            "ASP.NET 4.5",
+            "C#",
+            "WCF",
+            "Solr",
+            "SpecFlow",
+            "Selenium"
+          ],
+          "from": "september 2012",
+          "to": "juli 2013"
+        },
+        {
+          "name": "Sveriges Riksbank – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer, samt migrering av innehåll från gammal till ny webbplats.",
+          "url": "http://www.riksbank.se",
+          "roles": [
+            "Systemutvecklare",
+            "Scrum Master"
+          ],
+          "keywords": [
+            "EPiServer CMS 6 R2",
+            "ASP.NET 4.0",
+            "C#",
+            "Web Services",
+            "SiteSeeker",
+            "SpecFlow",
+            "Selenium"
+          ],
+          "from": "maj 2011",
+          "to": "mars 2012"
+        },
+        {
+          "name": "Danderyds sjukhus – Extranät",
+          "description": "Konfigurering av befintligt intranät baserat på EPiServer för att bli åtkomligt utifrån som ett extranät.",
+          "roles": [
+            "Utvecklare"
+          ],
+          "keywords": [
+            "EPiServer 5",
+            "LDAP",
+            "IBM Domino"
+          ],
+          "from": "maj 2011",
+          "to": "maj 2011"
+        },
+        {
+          "name": "Danderyds sjukhus – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer.",
+          "url": "http://www.ds.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6 R2",
+            "ASP.NET 4.0",
+            "C#",
+            "SiteSeeker",
+            "SpecFlow",
+            "Selenium"
+          ],
+          "from": "mars 2011",
+          "to": "april 2011"
+        },
+        {
+          "name": "Newsec – Startsida",
+          "description": "Utveckling av ny startsida på befintlig webbplats baserat på EPiServer.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer 5",
+            "ASP.NET",
+            "C#"
+          ],
+          "from": "mars 2011",
+          "to": "mars 2011"
+        },
+        {
+          "name": "Fråga chans – Migrering / Utveckling",
+          "description": "Migrering av innehåll från N2 till ett nytt system baserat på EPiServer. Utveckling av administrativt gränssnitt för hantering av data från och till Flash-sajt.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6",
+            "ASP.NET 3.5",
+            "C#"
+          ],
+          "from": "mars 2011",
+          "to": "maj 2011"
+        },
+        {
+          "name": "Handisam – Intranät",
+          "description": "Konfigurering av intranät baserat på SharePoint 2010. Henriks arbetsuppgifter var även att utbilda medarbetare i SharePoint och dokumenthantering.",
+          "roles": [
+            "Utvecklare",
+            "Lärare"
+          ],
+          "keywords": [
+            "SharePoint 2010"
+          ],
+          "from": "december 2010",
+          "to": "januari 2011"
+        },
+        {
+          "name": "Säkraresex – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer.",
+          "url": "http://sakraresex.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6",
+            "ASP.NET 3.5",
+            "C#"
+          ],
+          "from": "december 2010",
+          "to": "februari 2011"
+        },
+        {
+          "name": "Lafa – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer.",
+          "url": "http://lafa.nu",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6",
+            "ASP.NET 3.5",
+            "C#"
+          ],
+          "from": "november 2010",
+          "to": "januari 2011"
+        },
+        {
+          "name": "GIH – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer.",
+          "url": "http://gih.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6",
+            "ASP.NET 3.5",
+            "C#"
+          ],
+          "from": "maj 2010",
+          "to": "oktober 2010"
+        },
+        {
+          "name": "Autoexperten – Externwebb",
+          "description": "Utveckling av ny publik webbplats baserat på EPiServer.",
+          "url": "https://www.autoexperten.se",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer CMS 6",
+            "ASP.NET 3.5",
+            "C#"
+          ],
+          "from": "april 2010",
+          "to": "november 2010"
+        }
+      ]
+    },
+    {
+      "company": "Tieto",
+      "title": "Konsult",
+      "description": "",
+      "from": "juni 2007",
+      "to": "april 2010",
+      "projects": [
+        {
+          "name": "GlobeForum – Externwebb / Community",
+          "description": "Utveckling av ny publik webbplats och community baserat på EPiServer.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer 5",
+            "ASP.NET",
+            "C#"
+          ],
+          "from": "november 2009",
+          "to": "april 2010"
+        },
+        {
+          "name": "Swepro – Intranät",
+          "description": "Utveckling av funktioner på existerande intranät baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var utveckling av features och affärslogik.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML"
+          ],
+          "from": "september 2009",
+          "to": "oktober 2009"
+        },
+        {
+          "name": "Stockholms stad – E-tjänster",
+          "description": "Utveckling av tre e-tjänster baserade på nedan nämnda plattform; val av barnomsorg, boendeparkering, kollo. Henriks arbetsuppgifter var utveckling av WebParts, Features och affärslogik.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML",
+            "Web services",
+            "MSTest"
+          ],
+          "from": "mars 2009",
+          "to": "september 2009"
+        },
+        {
+          "name": "Stockholms stad – E-tjänsteplattform",
+          "description": "Utveckling av ny e-tjänsteplattform baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var utveckling av API, ramverk, WebParts, SiteDefinitions, Features.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML",
+            "Web services",
+            "Telerik RadControls",
+            "MSTest"
+          ],
+          "from": "oktober 2008",
+          "to": "september 2009"
+        },
+        {
+          "name": "Apoteket Farmaci – Externweb",
+          "description": "Utveckling av ny publik webbplats baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var arkitektur, utveckling av WebParts, SiteDefinitions, Features.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML"
+          ],
+          "from": "augusti 2008",
+          "to": "oktober 2008"
+        },
+        {
+          "name": "PPS – Projektportal",
+          "description": "Utveckling av projektportal för PPS projekt baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var arkitektur, utveckling av WebParts, SiteDefinitions, Features.",
+          "roles": [
+            "Arkitekt",
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML"
+          ],
+          "from": "mars 2008",
+          "to": "september 2008"
+        },
+        {
+          "name": "Fortum – Migrering",
+          "description": "Migrering av innehåll från gammalt system till en ny publik webbplats baserat på Microsoft Office SharePoint Server (MOSS) 2007.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "C#",
+            "XML"
+          ],
+          "from": "februari 2008",
+          "to": "mars 2008"
+        },
+        {
+          "name": "DNA OY – Externweb",
+          "description": "Utveckling av ny publik webbplats baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var arkitektur, utveckling av WebParts, SiteDefinitions, Features.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET",
+            "C#",
+            "XML"
+          ],
+          "from": "november 2007",
+          "to": "januari 2008"
+        },
+        {
+          "name": "Telenor – Webbshop",
+          "description": "Utveckling av ny webbshop baserat på EPiServer.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer 5",
+            "ASP.NET",
+            "C#"
+          ],
+          "from": "september 2007",
+          "to": "oktober 2007"
+        },
+        {
+          "name": "SAAB Systems – Intranät",
+          "description": "Utveckling av nytt intranät baserat på Microsoft Office SharePoint Server (MOSS) 2007. Henriks arbetsuppgifter var arkitektur, utveckling av WebParts, SiteDefinitions, Features.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "SharePoint 2007",
+            "ASP.NET 2.0",
+            "C#",
+            "XML"
+          ],
+          "from": "juni 2007",
+          "to": "augusti 2007"
+        }
+      ]
+    },
+    {
+      "company": "iBusiness",
+      "title": "Systemutvecklare",
+      "description": "",
+      "from": "februari 2005",
+      "to": "november 2006",
+      "projects": [
+        {
+          "name": "Canal Digital – Försäljningsstatistik",
+          "description": "Design och utveckling av en lösning för att analysera försäljningsstatistik från Canal Digitals återförsäljarplattform.",
+          "roles": [
+            "Arkitekt",
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "Business Navigator HAT",
+            "C#",
+            "C++",
+            "MS SQL 2000",
+            "Web services"
+          ],
+          "from": "maj 2006",
+          "to": "november 2006"
+        },
+        {
+          "name": "Canal Digital – Adresser",
+          "description": "Utveckling av en lösning för att administrera adress- och täckningsinformation för Canal Digitals tjänster.",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer 4",
+            "ASP.NET 1.1",
+            "C#",
+            "MS SQL 2000"
+          ],
+          "from": "januari 2006",
+          "to": "november 2006"
+        },
+        {
+          "name": "Canal Digital – Extranät",
+          "description": "Utveckling av en webbaserad återförsäljarplattform åt Canal Digital (hela norden).",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "EPiServer 4",
+            "ASP.NET 1.1",
+            "C#",
+            "MS SQL 2000",
+            "iCalendar",
+            "NUnit"
+          ],
+          "from": "februari 2005",
+          "to": "november 2006"
+        }
+      ]
+    }
+  ]
+}

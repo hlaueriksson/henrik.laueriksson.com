@@ -13,11 +13,11 @@
       "title": "Systemutvecklare",
       "description": "",
       "from": "november 2016",
-      "to": null,
+      "to": "mars 2018",
       "projects": [
         {
           "name": "Qliro - Betalningslösning för e-handel",
-          "description": "Utveckling av betalningslösning för e-handel. Checkout för interna och externa merchants. Betalningar via faktura, Visa, Mastercard och PayPal.",
+          "description": "Utveckling av betalningslösning för e-handel. Checkout för interna och externa merchants. Betalningar via faktura, kreditkort, Trustly och PayPal.",
           "roles": [
             "Systemutvecklare"
           ],
@@ -33,7 +33,7 @@
             "Redux"
           ],
           "from": "november 2016",
-          "to": null
+          "to": "mars 2018"
         }
       ]
     },

@@ -4,7 +4,7 @@ https://keybase.io/hlaueriksson
 
 I hereby claim:
 
-  * I am an admin of http://henrik.laueriksson.com
+  * I am an admin of https://henrik.laueriksson.com
   * I am hlaueriksson (https://keybase.io/hlaueriksson) on keybase.
   * I have a public key with fingerprint 2392 198E 2F9F 0DCE 23E4  E4BB FE46 F6EB C904 46CD
 

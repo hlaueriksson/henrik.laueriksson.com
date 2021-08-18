@@ -1,33 +1,33 @@
 body {
-	background-color: WhiteSmoke;
-	
-	font-family: 'Roboto', sans-serif;
-	font-size: 28px;
-	text-shadow: 1px 1px 1px #aaa;
-	
-	padding-left: 20px;
+  background-color: WhiteSmoke;
+
+  font-family: "Roboto", sans-serif;
+  font-size: 28px;
+  text-shadow: 1px 1px 1px #aaa;
+
+  padding-left: 20px;
 }
 
 .content {
-	margin-top: -30px;
-	padding-left: 20px;
+  margin-top: -30px;
+  padding-left: 20px;
 }
 
 .section {
-	padding-left: 20px;
+  padding-left: 20px;
 }
 
 .clear {
-	clear: both;
+  clear: both;
 }
 
 .at {
-	font-size: 26px;
+  font-size: 26px;
 }
 
 figure {
-	margin: 0px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	float: left;
+  margin: 0px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  float: left;
 }

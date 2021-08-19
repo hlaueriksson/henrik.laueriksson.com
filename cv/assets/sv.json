@@ -1,13 +1,46 @@
 {
   "name": "Henrik Lau Eriksson",
   "title": "Systemutvecklare",
-  "description": "Jag inriktar mig främst på utveckling av system för webben och är starkast på kod som körs backend. Jag har mångårig erfarenhet av programmering i .NET och jag brinner för testning, arkitektur och agila arbetssätt. Jag läste datateknik på KTH med inriktning programutveckling.",
+  "description": "Jag inriktar mig främst på utveckling av system för webben och är starkast på kod som körs backend. Jag har mångårig erfarenhet av programmering i .NET och jag brinner för testning, arkitektur och agila arbetssätt. Mitt fokus de senaste åren har varit på att bygga lösningar för betalning på nätet. Jag läste datateknik på KTH med inriktning programutveckling.",
   "urls": {
     "linkedin": "https://www.linkedin.com/in/henriklaueriksson",
+    "github": "https://github.com/hlaueriksson",
     "portfolio": "http://henrik.laueriksson.com",
     "blog": "http://conductofcode.io"
   },
   "positions": [
+    {
+      "company": "Tradera",
+      "title": "Systemutvecklare",
+      "description": "",
+      "from": "april 2018",
+      "to": null,
+      "projects": [
+        {
+          "name": "Tradera - Betalningslösning för Sveriges största cirkulära marknad",
+          "description": "Utveckling av Traderabetalning, betalningslösningen för köpare och säljare på Tradera. Betalningar via Swish, kort, PayPal och faktura. Utbetalningar till bankkonto och PayPal.",
+          "url": "https://www.tradera.com",
+          "roles": [
+            "Systemutvecklare"
+          ],
+          "keywords": [
+            "C#",
+            "ASP.NET",
+            "RabbitMQ",
+            "NServiceBus",
+            "GCP",
+            "Argo CD",
+            "Kubernetes",
+            "Grafana",
+            "SQL",
+            "React",
+            "Redux"
+          ],
+          "from": "april 2018",
+          "to": null
+        }
+      ]
+    },
     {
       "company": "Qliro",
       "title": "Systemutvecklare",

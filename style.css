@@ -17,12 +17,17 @@ body {
   padding-left: 20px;
 }
 
-.clear {
-  clear: both;
+.contact {
+  list-style-type: none;
+  padding: 0;
 }
 
-.at {
-  font-size: 26px;
+.contact a {
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
 }
 
 figure {
